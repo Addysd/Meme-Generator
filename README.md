@@ -20,3 +20,5 @@ This is a simple meme generator web application that allows users to generate ra
 
 3)Click on the buttons in the sidebar to generate memes, jokes, quotes, and riddles.
 
+#To visit the site, click on:
+![https://addysd.github.io/Meme-Generator/]
