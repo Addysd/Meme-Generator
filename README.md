@@ -1,7 +1,7 @@
 # Meme-Generator
 This is a simple meme generator web application that allows users to generate random memes, jokes, quotes, and riddles.
 
-## Features
+## Features:
 1)Show a Meme: Clicking this button will display a random programmer meme.
 
 2)Tell Me a Joke: Clicking this button will display a random joke.
@@ -13,7 +13,7 @@ This is a simple meme generator web application that allows users to generate ra
 5)Reveal Riddle Answer: Clicking this button will reveal the answer to the displayed riddle.
 
 
-## How to Use
+## How to Use:
 1)Clone the repository to your local machine.
 
 2)Open the index.html file in your web browser.
