@@ -12,13 +12,5 @@ This is a simple meme generator web application that allows users to generate ra
 
 5)Reveal Riddle Answer: Clicking this button will reveal the answer to the displayed riddle.
 
-
-## How to Use:
-1)Clone the repository to your local machine.
-
-2)Open the index.html file in your web browser.
-
-3)Click on the buttons in the sidebar to generate memes, jokes, quotes, and riddles.
-
 ### To visit the site, click on:
 https://addysd.github.io/Meme-Generator/
